@@ -54,3 +54,4 @@ for entry in all_inputs:
 
 print("Bye bye")
 print("sheesh")
+print("napaka angas")
