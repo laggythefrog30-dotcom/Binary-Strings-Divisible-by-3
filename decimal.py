@@ -49,9 +49,10 @@ while True:
     print()
 
 # Summary Table
-print("Decimal\t\tBinary\t\t\tState\t\tResult")
+print("Decimal\t\tBinary\t\t\tState\t\t\t\tResult")
 print("---------------------------------------------------------------")
 for entry in all_inputs:
     print(f"{entry['decimal']}\t\t{entry['binary']}\t\t{entry['state']}\t\t{entry['result']}")
+
 
 print("Program ended.")
